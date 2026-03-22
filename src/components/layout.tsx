@@ -39,7 +39,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
                 <img src="/images/mosque-logo.png" alt="Logo" className="w-8 h-8 object-contain" />
               </div>
               <div>
-                <h1 className="text-2xl font-bold font-display text-primary leading-none">মসজিদ নূর</h1>
+                <h1 className="text-2xl font-bold font-display text-primary leading-none">মসজিদ 123</h1>
                 <p className="text-sm text-muted-foreground">চাঁদা ম্যানেজমেন্ট</p>
               </div>
             </div>
